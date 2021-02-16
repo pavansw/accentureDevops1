@@ -8,3 +8,5 @@ print (x*y*z" is multiplication of ",x,y" and ",z)
 print(x-y-z'is subtraction of ',x,y' and ',z)
 print(x/y/z'is the division')
 print("added division")
+print(x+y-z " is an operation on ",x,y,z)
+
