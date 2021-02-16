@@ -1,4 +1,4 @@
-print ("This is my Python code")
+print ("This is a public Python code having many collaborators")
 x = 200
 y = 200
 z = 300
